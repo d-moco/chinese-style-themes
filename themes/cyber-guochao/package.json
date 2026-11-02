@@ -1,0 +1,29 @@
+{
+ "name": "cyber-guochao",
+ "displayName": "赛博国潮 Cyber Guochao",
+ "description": "赛博国潮深色主题：近黑藏青底，霓虹中国红、霓虹金与青玉辉光，红灯笼与霓虹书法之感，亮而不刺眼。",
+ "version": "0.1.0",
+ "publisher": "moco",
+ "license": "MIT",
+ "engines": {
+  "vscode": "^1.70.0"
+ },
+ "categories": [
+  "Themes"
+ ],
+ "keywords": [
+  "theme",
+  "chinese",
+  "中国风",
+  "dark"
+ ],
+ "contributes": {
+  "themes": [
+   {
+    "label": "赛博国潮 Cyber Guochao",
+    "uiTheme": "vs-dark",
+    "path": "./themes/cyber-guochao-color-theme.json"
+   }
+  ]
+ }
+}

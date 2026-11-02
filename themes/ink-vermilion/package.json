@@ -1,0 +1,2 @@
+{"name":"ink-vermilion","displayName":"水墨 Ink & Vermilion","description":"中国风浅色主题：宣纸底色、朱红关键字、玉绿字符串、黛蓝函数。","version":"0.1.0","publisher":"moco","license":"MIT","engines":{"vscode":"^1.70.0"},"categories":["Themes"],"keywords":["theme","chinese","light","ink","中国风"],
+"contributes":{"themes":[{"label":"水墨 Ink & Vermilion","uiTheme":"vs","path":"./themes/ink-vermilion-color-theme.json"}]}}

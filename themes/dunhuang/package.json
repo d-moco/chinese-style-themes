@@ -1,0 +1,29 @@
+{
+ "name": "dunhuang",
+ "displayName": "敦煌 Dunhuang",
+ "description": "敦煌壁画风深色主题：赭褐土色底，石青、石绿、朱砂、土黄与金色交织，取莫高窟飞天之色。",
+ "version": "0.1.0",
+ "publisher": "moco",
+ "license": "MIT",
+ "engines": {
+  "vscode": "^1.70.0"
+ },
+ "categories": [
+  "Themes"
+ ],
+ "keywords": [
+  "theme",
+  "chinese",
+  "中国风",
+  "dark"
+ ],
+ "contributes": {
+  "themes": [
+   {
+    "label": "敦煌 Dunhuang",
+    "uiTheme": "vs-dark",
+    "path": "./themes/dunhuang-color-theme.json"
+   }
+  ]
+ }
+}

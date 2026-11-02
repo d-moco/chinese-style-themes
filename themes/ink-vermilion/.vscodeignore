@@ -1,0 +1,4 @@
+gen.py
+render.py
+*.html
+*.vsix

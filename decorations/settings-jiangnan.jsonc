@@ -1,0 +1,15 @@
+// 江南烟雨装饰（需先安装 jiangnan-mist-0.1.0.vsix）
+"workbench.colorTheme": "江南烟雨 Jiangnan Mist",
+"background.enabled": true,
+"background.editor": {
+  "useFront": true,
+  "style": {
+    "background-position": "100% 100%",
+    "background-size": "auto",
+    "background-repeat": "no-repeat",
+    "opacity": 0.3
+  },
+  "images": ["C:/Users/<you>/cursor-bg/jiangnan-editor-corner.png"]
+},
+"background.sidebar": { "images": [] },
+"background.panel": { "images": [] }

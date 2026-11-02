@@ -1,0 +1,29 @@
+{
+ "name": "ink-night",
+ "displayName": "水墨·夜 Ink Night",
+ "description": "水墨夜色深色主题：墨黑底、墨分五色的层层灰阶、象牙白正文，仅以一枚朱砂印红作关键字点睛，玉白与银灰写字符串。",
+ "version": "0.1.0",
+ "publisher": "moco",
+ "license": "MIT",
+ "engines": {
+  "vscode": "^1.70.0"
+ },
+ "categories": [
+  "Themes"
+ ],
+ "keywords": [
+  "theme",
+  "chinese",
+  "中国风",
+  "dark"
+ ],
+ "contributes": {
+  "themes": [
+   {
+    "label": "水墨·夜 Ink Night",
+    "uiTheme": "vs-dark",
+    "path": "./themes/ink-night-color-theme.json"
+   }
+  ]
+ }
+}

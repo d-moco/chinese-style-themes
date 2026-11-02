@@ -1,0 +1,2 @@
+{"name":"imperial-red-gold","displayName":"故宫 Imperial Red & Gold","description":"故宫风深色主题：宫墙红、琉璃金、玉绿、石青。","version":"0.1.0","publisher":"moco","license":"MIT","engines":{"vscode":"^1.70.0"},"categories":["Themes"],"keywords":["theme","chinese","dark","故宫","中国风"],
+"contributes":{"themes":[{"label":"故宫 Imperial Red & Gold","uiTheme":"vs-dark","path":"./themes/imperial-red-gold-color-theme.json"}]}}

@@ -1,0 +1,29 @@
+{
+ "name": "jiangnan-mist",
+ "displayName": "江南烟雨 Jiangnan Mist",
+ "description": "江南烟雨浅色主题：粉墙黛瓦、烟灰青绿、柳绿、荷粉与黛蓝，低饱和而清晰可读。",
+ "version": "0.1.0",
+ "publisher": "moco",
+ "license": "MIT",
+ "engines": {
+  "vscode": "^1.70.0"
+ },
+ "categories": [
+  "Themes"
+ ],
+ "keywords": [
+  "theme",
+  "chinese",
+  "中国风",
+  "light"
+ ],
+ "contributes": {
+  "themes": [
+   {
+    "label": "江南烟雨 Jiangnan Mist",
+    "uiTheme": "vs",
+    "path": "./themes/jiangnan-mist-color-theme.json"
+   }
+  ]
+ }
+}

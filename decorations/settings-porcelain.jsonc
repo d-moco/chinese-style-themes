@@ -1,0 +1,28 @@
+// 青花瓷装饰 —— 复制到 Cursor 的 settings.json（用户设置）最外层 { } 内
+// 先把 images 文件夹里的 PNG 放到 C:/Users/<you>/cursor-bg/ ，把 <you> 换成你的 Windows 用户名
+"workbench.colorTheme": "青花瓷 Blue & White Porcelain",
+"background.enabled": true,
+"background.editor": {
+  "useFront": true,
+  "style": {
+    "background-position": "100% 100%",
+    "background-size": "auto",
+    "background-repeat": "no-repeat",
+    "opacity": 0.3
+  },
+  "images": ["C:/Users/<you>/cursor-bg/porcelain-editor-corner.png"],
+  "interval": 0,
+  "random": false
+},
+"background.sidebar": {
+  "images": ["C:/Users/<you>/cursor-bg/porcelain-sidebar-vase.png"],
+  "opacity": 0.2,
+  "size": "100% auto",
+  "position": "bottom center"
+},
+"background.panel": {
+  "images": ["C:/Users/<you>/cursor-bg/porcelain-panel-band.png"],
+  "opacity": 0.2,
+  "size": "auto",
+  "position": "bottom"
+}

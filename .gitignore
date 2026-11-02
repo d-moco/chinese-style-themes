@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+
+# Generator scratch (preview HTML written under /tmp is outside the repo)
+*.html
+
+# Installers are intentional: each themes/<id>/*.vsix stays in the repo
+# so it can be downloaded directly. Do not add *.vsix here.

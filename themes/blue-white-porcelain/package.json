@@ -1,0 +1,29 @@
+{
+ "name": "blue-white-porcelain",
+ "displayName": "青花瓷 Blue & White Porcelain",
+ "description": "青花瓷浅色主题：冷白瓷底、浓淡多层的青花蓝写代码，墨色正文，偶以釉里红点缀。",
+ "version": "0.2.0",
+ "publisher": "moco",
+ "license": "MIT",
+ "engines": {
+  "vscode": "^1.70.0"
+ },
+ "categories": [
+  "Themes"
+ ],
+ "keywords": [
+  "theme",
+  "chinese",
+  "中国风",
+  "light"
+ ],
+ "contributes": {
+  "themes": [
+   {
+    "label": "青花瓷 Blue & White Porcelain",
+    "uiTheme": "vs",
+    "path": "./themes/blue-white-porcelain-color-theme.json"
+   }
+  ]
+ }
+}
